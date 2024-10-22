@@ -193,6 +193,18 @@ define( 'NONCE_SALT',       'put your unique phrase here' );
 https://api.wordpress.org/secret-key/1.1/salt/
 ```
 
+## 3. Visualización de WordPress
+
+-En el navegador ya con los pasos anteriores finalizados, acceso a WordPress con la url: http://localhost:8080, y si todo funcionó correctamente ya podemos usar WordPress a nuestro antojo.
+
+*Captura ya dentro de WordPress:
+
+![capturaWordPress](CapturaWordPress.png)
+
+
+
+
+
 
 
 
